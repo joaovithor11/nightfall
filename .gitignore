@@ -1,0 +1,9 @@
+# Arquivos temporários do Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários do macOS
+.DS_Store
+
+# Configurações pessoais do editor
+.vscode/
